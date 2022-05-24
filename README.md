@@ -9,4 +9,8 @@ GET /todo - retorna todos os “todos”
 GET /todo/{n} - retorna o “todo” com id n
 POST /todo - insere o “todo” 
 PUT /todo/{n} - atualiza os atributos do “todo” com id {n} utilizando os atributos passados no corpo do request em json
-DELETE /todo/{n} -  exclui o “todo” com o id {n} da lista
+DELETE /todo/{n} -  exclui o “todo” com o id {n} da lista.
+
+Calculadora
+
+Fazer 4 endpoints que simule uma calculadora, soma, divisão, subtração e multiplicação.
